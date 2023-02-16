@@ -1,7 +1,7 @@
-# SnakeAI
+# SnakeAI (C# Port)
 
 ## Download and Run
-To run the program you will need [Processing](https://processing.org/)
+Built with Visual Studio 2022 using .NET Framework 4.8.
 
 ### [YouTube Video](https://www.youtube.com/watch?v=zIkBYwdkuTk&t)
 
